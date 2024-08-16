@@ -91,7 +91,7 @@ header nav{
 /* estilo Main*/
 contenido{
     position: absolute;
-    margin-top:80px;
+    margin-top: 80px;
 }
 .imagenes{
     columns:5 240px;
@@ -116,7 +116,7 @@ contenido{
 }
 .button{
     position: absolute;
-    left: 48%;
+    left: 57%;
     top: 5%;
     padding: 13px 15px;
     background-color: #e60023;
@@ -156,3 +156,4 @@ contenido{
     visibility: hidden;
     display: none;
 }
+/*final */
